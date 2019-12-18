@@ -4,7 +4,7 @@
 <ol>
   <li>Introduction</li>
   control flow: https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/exercises/control-flow-intro
-  https://docs.google.com/document/d/18noOQFa55STTiRampMZeQRDvuRVs26lkE7Hb42Nw-fk/edit?usp=sharing<br>
+  https://docs.google.com/document/d/18noOQFa55STTiRampMZeQRDvuRVs26lkE7Hb42Nw-fk/edit?usp=sharing
 
   functions: https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions
   (https://docs.google.com/document/d/1slzi8BXeuEcvKc6-lonISqq-AP-SRgNEPV-9pIfjFxw/edit?usp=sharing)
@@ -60,10 +60,11 @@
   https://drive.google.com/file/d/14L3DRjjY6y1yAfrf7wkelnR0ASRn_Z9O/view?usp=sharing
   https://isogg.org/wiki/Autosomal_DNA_statistics
   Solution: https://repl.it/@OsagieNoah1/Fix-the-broken-code-round-2
+  
   <li>tipCalculator()</li>
   https://drive.google.com/file/d/1BVIPmBCPgnZQD0FVMzoMgnlmQDhziQcs/view?usp=sharing
   Solution: https://repl.it/@OsagieNoah1/tipCalculator
-  <br>
+
   <li>toEmoticon()</li>
   https://drive.google.com/file/d/1Jx8AM2fiQ9pGZ8EArpC8YnCREbcakOAB/view?usp=sharing
   Solution: https://repl.it/@OsagieNoah1/toEmoticon
