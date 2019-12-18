@@ -9,7 +9,7 @@
   functions: https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions
   (https://docs.google.com/document/d/1slzi8BXeuEcvKc6-lonISqq-AP-SRgNEPV-9pIfjFxw/edit?usp=sharing)
   documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
-  https://drive.google.com/file/d/1VjzRpjs3DpORIGXAZXi3AyZ2gf7k0qW_/view?usp=sharing
+  Solution: https://drive.google.com/file/d/1VjzRpjs3DpORIGXAZXi3AyZ2gf7k0qW_/view?usp=sharing
 
   <li>canIVote()</li>
   https://drive.google.com/file/d/19FGHQsHNz9Lgdbj5O88Jq89ZyrmK59J0/view?usp=sharing
