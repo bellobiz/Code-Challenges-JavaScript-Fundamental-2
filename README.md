@@ -1,8 +1,9 @@
 # Code-Challenges-JavaScript-Fundamental-2
-Get Free Access to Codecademy Courses: http://ssqt.co/mQfpbL0<br>
+<p>Get Free Access to Codecademy Courses: http://ssqt.co/mQfpbL0<p>
+
 1. Introduction<br>
 control flow: https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/exercises/control-flow-intro<br>
-(https://docs.google.com/document/d/18noOQFa55STTiRampMZeQRDvuRVs26lkE7Hb42Nw-fk/edit?usp=sharing)<br>
+https://docs.google.com/document/d/18noOQFa55STTiRampMZeQRDvuRVs26lkE7Hb42Nw-fk/edit?usp=sharing<br>
 <br>
 functions: https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions<br>
 (https://docs.google.com/document/d/1slzi8BXeuEcvKc6-lonISqq-AP-SRgNEPV-9pIfjFxw/edit?usp=sharing)<br>
