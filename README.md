@@ -3,13 +3,17 @@
 
 <ol>
   <li>Introduction</li>
-  control flow: https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/exercises/control-flow-intro<br>
-  https://docs.google.com/document/d/18noOQFa55STTiRampMZeQRDvuRVs26lkE7Hb42Nw-fk/edit?usp=sharing<br>
+  <ul>
+  <li>control flow</li> 
+    https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/exercises/control-flow-intro<br>
+    https://docs.google.com/document/d/18noOQFa55STTiRampMZeQRDvuRVs26lkE7Hb42Nw-fk/edit?usp=sharing
 
-  functions: https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions<br>
+  <li>functions</li> 
+  https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions<br>
   (https://docs.google.com/document/d/1slzi8BXeuEcvKc6-lonISqq-AP-SRgNEPV-9pIfjFxw/edit?usp=sharing)<br>
   documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference<br>
-  Solution: https://drive.google.com/file/d/1VjzRpjs3DpORIGXAZXi3AyZ2gf7k0qW_/view?usp=sharing<br>
+  Solution: https://drive.google.com/file/d/1VjzRpjs3DpORIGXAZXi3AyZ2gf7k0qW_/view?usp=sharing
+  </ul>
 
   <li>canIVote()</li>
   https://drive.google.com/file/d/19FGHQsHNz9Lgdbj5O88Jq89ZyrmK59J0/view?usp=sharing<br>
@@ -53,19 +57,19 @@
   Solution: https://repl.it/@OsagieNoah1/sillySentence
 
   <li>howOld()</li>
-  https://drive.google.com/file/d/1-Uy9rfBfAKLOlq4SkL6O6EpfNXfjS_q6/view?usp=sharing
-  Solution: https://repl.it/@OsagieNoah1/howOld
+  https://drive.google.com/file/d/1-Uy9rfBfAKLOlq4SkL6O6EpfNXfjS_q6/view?usp=sharing<br>
+  Solution: https://repl.it/@OsagieNoah1/howOld<br>
 
   <li>Fix the broken code (round 2)!</li>
-  https://drive.google.com/file/d/14L3DRjjY6y1yAfrf7wkelnR0ASRn_Z9O/view?usp=sharing
-  https://isogg.org/wiki/Autosomal_DNA_statistics
-  Solution: https://repl.it/@OsagieNoah1/Fix-the-broken-code-round-2
+  https://drive.google.com/file/d/14L3DRjjY6y1yAfrf7wkelnR0ASRn_Z9O/view?usp=sharing<br>
+  https://isogg.org/wiki/Autosomal_DNA_statistics<br>
+  Solution: https://repl.it/@OsagieNoah1/Fix-the-broken-code-round-2<br>
   
   <li>tipCalculator()</li>
-  https://drive.google.com/file/d/1BVIPmBCPgnZQD0FVMzoMgnlmQDhziQcs/view?usp=sharing
-  Solution: https://repl.it/@OsagieNoah1/tipCalculator
+  https://drive.google.com/file/d/1BVIPmBCPgnZQD0FVMzoMgnlmQDhziQcs/view?usp=sharing<br>
+  Solution: https://repl.it/@OsagieNoah1/tipCalculator<br>
 
   <li>toEmoticon()</li>
-  https://drive.google.com/file/d/1Jx8AM2fiQ9pGZ8EArpC8YnCREbcakOAB/view?usp=sharing
+  https://drive.google.com/file/d/1Jx8AM2fiQ9pGZ8EArpC8YnCREbcakOAB/view?usp=sharing<br>
   Solution: https://repl.it/@OsagieNoah1/toEmoticon
 </ol>
